@@ -1,9 +1,9 @@
 {
   "Countries": {
       "AM":{
-      "Sponsors": ["АрменияСпонсор1","АрменияСпонсор2","АрменияСпонсор3","АрменияСпонсор4","АрменияСпонсор5","АрменияСпонсор6"],
+      "Sponsors": ["IdBank","АрменияСпонсор2","АрменияСпонсор3","АрменияСпонсор4","АрменияСпонсор5","АрменияСпонсор6"],
 
-       "Icons":   ["https://interactedadds.pages.dev/png-klev-club-91pq-p-znachok-sber-png-1.png",
+       "Icons":   ["https://interactedadds.pages.dev/IDBank_logo_300x300.png",
                    "https://interactedadds.pages.dev/real-estate-logo.png", 
                    "https://interactedadds.pages.dev/Без названия (1).png",
                    "https://interactedadds.pages.dev/Без названия (2).png",
